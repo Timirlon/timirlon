@@ -5,7 +5,7 @@
 #### Контакты:  
 - Телефон: +7 778 724 11 55
 - Эл. почта: tturgimbayev@gmail.com  
-- Telegram: [@doppelte_t](t.me/@doppelte_t)
+- Telegram: [@doppelte_t](https://t.me/doppelte_t)
 
 #### Технологии и навыки:
 - Языки программирования: Java
