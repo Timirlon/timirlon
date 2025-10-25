@@ -2,21 +2,19 @@
 
 Начинающий Java Backend разработчик
 
-Контакты:  
+#### Контакты:  
 - Телефон: +7 778 724 11 55
 - Эл. почта: tturgimbayev@gmail.com  
-- Telegram: @doppelte_t
+- Telegram: [@doppelte_t](t.me/@doppelte_t)
 
-Технологии и навыки:
-- Языки программирования: Уверенное владение - Java
-                          Базовый уровень - JavaScript, Kotlin, Python, C++
-- Фронтенд: HTML, CSS, Bootstrap
+#### Технологии и навыки:
+- Языки программирования: Java
 - Фреймворки и библиотеки: Spring Boot (Spring Data JPA, Spring JDBC, Spring Security), Hibernate
 - Базы данных: PostgreSQL, H2, MongoDB, Firebase
 - Инструменты: Git, Docker, Maven, Gradle
-- Тестирование: Юнит-тестирование (JUnit & Mockito)
+- Тестирование: JUnit & Mockito
 
-Проекты:
+#### Проекты:
 
 - [Filmorate](https://github.com/Timirlon/filmorate) - REST API для сервиса просмотров фильмов. Разработано с использованием Java, Spring Boot и H2 с использованием Spring JDBC. Функционал включает рекомендации фильмов и взаимодействие между пользователями.
 
