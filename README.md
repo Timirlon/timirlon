@@ -1,6 +1,8 @@
 ## Темирлан Тургимбаев
 
-Начинающий Java Backend разработчик
+Junior Java Backend Developer
+
+![Metrics](https://metrics.lecoq.io/timirlon?template=classic)
 
 #### Контакты:  
 - Телефон: +7 778 724 11 55
