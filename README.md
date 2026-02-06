@@ -99,4 +99,5 @@
 - Управление пользователями и ролями
 
 
-
+---
+![Metrics](https://metrics.lecoq.io/timirlon?template=classic&config.timezone=Asia%2FQyzylorda)
