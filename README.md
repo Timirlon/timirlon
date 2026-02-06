@@ -1,28 +1,94 @@
-## Темирлан Тургимбаев
+<h1 align="center">Темирлан Тургимбаев</h1>
 
-Junior Java Backend Developer
+<h3 align="center">☕ Junior Java Backend Developer</h3>
 
-![Metrics](https://metrics.lecoq.io/timirlon?template=classic)
+<p align="center">
+  <a href="mailto:tturgimbayev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tturgimbayev%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://t.me/doppelte_t">
+    <img src="https://img.shields.io/badge/Telegram-@doppelte__t-2CA5E0?style=for-the-badge&logo=telegram" />
+  </a>
+</p>
 
-#### Контакты:  
-- Телефон: +7 778 724 11 55
-- Эл. почта: tturgimbayev@gmail.com  
-- Telegram: [@doppelte_t](https://t.me/doppelte_t)
+---
 
-#### Технологии и навыки:
-- Языки программирования: Java
-- Фреймворки и библиотеки: Spring Boot (Spring Data JPA, Spring JDBC, Spring Security), Hibernate
-- Базы данных: PostgreSQL, H2, MongoDB, Firebase
-- Инструменты: Git, Docker, Maven, Gradle
-- Тестирование: JUnit & Mockito
+## 🚀 Обо мне
 
-#### Проекты:
+- 💻 Java Backend разработчик с коммерческим опытом  
+- 🧠 Студент 3 курса в Astana IT University 
+- 📈 Постоянно прокачиваю навыки и изучаю новые технологии
 
-- [Filmorate](https://github.com/Timirlon/filmorate) - REST API для сервиса просмотров фильмов. Разработано с использованием Java, Spring Boot и H2 с использованием Spring JDBC. Функционал включает рекомендации фильмов и взаимодействие между пользователями.
+---
 
-- [Share It](https://github.com/Timirlon/share-it) - Бэкенд-приложение для обмена предметами с реализацией микросервисной архитектуры. Разработано с использованием Java, Spring Boot, PostgreSQL и Spring Data JPA. Позволяет пользователям делиться предметами, отправлять запросы и искать нужные вещи. Присутствует 100% покрытие тестами при помощи библиотек Junit и Mockito.
+## 🧰 Технологический стек
 
-- [Afisha](https://github.com/Timirlon/afisha) - Сервис для управления событиями, разработанный на Java Spring Boot с использованием PostgreSQL и Docker. Пользователи могут создавать, редактировать и комментировать события, а также взаимодействовать через систему жалоб и модерации комментариев.
+### 🧑‍💻 Языки
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-- [University Management System](https://github.com/Timirlon/university-management-system) - Веб-приложение на Spring Boot, разработанное для упрощения административных
-процессов в вузе. Разработано с Spring Data JPA и Spring Security (JWT) для предоставления функционала.
+### ⚙️ Фреймворки и библиотеки
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
+
+### 🗄️ Базы данных
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![H2](https://img.shields.io/badge/H2-003545?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+
+### 🛠 Инструменты
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle)
+
+### 🧪 Тестирование
+![JUnit](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5)
+![Mockito](https://img.shields.io/badge/Mockito-59666C?style=for-the-badge)
+
+---
+
+## 📦 Проекты
+
+### 🎬 [Filmorate](https://github.com/Timirlon/filmorate)
+**REST API для сервиса просмотра фильмов**
+
+- Java, Spring Boot, H2
+- Spring JDBC
+- Рекомендации фильмов
+- Социальное взаимодействие пользователей  
+
+---
+
+### 🔄 [Share It](https://github.com/Timirlon/share-it)
+**Микросервисное приложение для обмена предметами**
+
+- Java, Spring Boot, PostgreSQL
+- Spring Data JPA
+- Микросервисная архитектура
+- 100% покрытие тестами (JUnit, Mockito)
+
+---
+
+### 🎭 [Afisha](https://github.com/Timirlon/afisha)
+**Сервис управления событиями**
+
+- Java, Spring Boot
+- PostgreSQL, Docker
+- Комментарии, жалобы, модерация
+- Ролевая модель пользователей
+
+---
+
+### 🎓 [University Management System](https://github.com/Timirlon/university-management-system)
+**Система управления университетом**
+
+- Spring Boot
+- Spring Data JPA
+- Spring Security (JWT)
+- Управление пользователями и ролями
+
+
+
