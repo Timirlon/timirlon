@@ -63,8 +63,8 @@
 <div align="center">
 
 ![Stats](https://github-readme-stats-iota-ten-20.vercel.app/api?username=Timirlon&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=Timirlon&theme=tokyonight)
 ![Top Langs](https://github-readme-stats-iota-ten-20.vercel.app/api/top-langs/?username=Timirlon&layout=compact&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=Timirlon&theme=tokyonight)
 
 </div>
 
