@@ -63,9 +63,13 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats-iota-ten-20.vercel.app/api?username=Timirlon&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=#0d1117)
-![Top Langs](https://github-readme-stats-iota-ten-20.vercel.app/api/top-langs/?username=Timirlon&layout=compact&theme=tokyonight&hide_border=true&bg_color=#0d1117)
-![Streak](https://streak-stats.demolab.com?user=Timirlon&theme=tokyonight&hide_border=true&background=#0d1117)
+<div align="center">
+
+![Stats](https://github-readme-stats-iota-ten-20.vercel.app/api?username=Timirlon&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9)
+![Top Langs](https://github-readme-stats-iota-ten-20.vercel.app/api/top-langs/?username=Timirlon&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9)
+![Streak](https://streak-stats.demolab.com?user=Timirlon&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=c9d1d9)
+
+</div>
 
 </div>
 
