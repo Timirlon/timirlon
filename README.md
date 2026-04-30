@@ -1,6 +1,6 @@
-<h1 align="center">Темирлан Тургимбаев</h1>
+<h1 align="center">Temirlan Turgimbayev</h1>
 
-<h3 align="center">☕ Junior Java Backend Developer</h3>
+<h3 align="center">☕ Java Backend Developer</h3>
 
 <p align="center">
   <a href="mailto:tturgimbayev@gmail.com">
@@ -13,15 +13,15 @@
 
 ---
 
-## 🚀 Обо мне
+## 🚀 About Me
 
-- 💻 Java Backend разработчик с коммерческим опытом  
-- 🧠 Студент 3 курса в Astana IT University
-- 📈 Постоянно прокачиваю навыки и изучаю новые технологии
+- 💻 Java Backend Developer with commercial experience  
+- 🧠 3rd-year student at Astana IT University  
+- 📈 Continuously improving my skills and learning new technologies  
 
 ---
 
-## 🧰 Технологический стек
+## 🧰 Tech Stack
 
 <div align="center">
 
@@ -53,15 +53,11 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-42160d?style=for-the-badge&logo=git)
 
-
 </div>
 
 ---
 
-## 📊 Статистика
-
-
-<div align="center">
+## 📊 Statistics
 
 <div align="center">
 
@@ -71,47 +67,44 @@
 
 </div>
 
-</div>
-
-
 ---
 
-## 📦 Pet-проекты
+## 📦 Pet Projects
 
 ### 🎬 [Filmorate](https://github.com/Timirlon/filmorate)
-**REST API для сервиса просмотра фильмов**
+**REST API for a movie recommendation service**
 
-- Java, Spring Boot, H2
-- Spring JDBC
-- Рекомендации фильмов
-- Социальное взаимодействие пользователей  
+- Java, Spring Boot, H2  
+- Spring JDBC  
+- Movie recommendations  
+- Social user interactions  
 
 ---
 
 ### 🔄 [Share It](https://github.com/Timirlon/share-it)
-**Микросервисное приложение для обмена предметами**
+**Microservice-based item sharing application**
 
-- Java, Spring Boot, PostgreSQL
-- Spring Data JPA
-- Микросервисная архитектура
-- 100% покрытие тестами (JUnit, Mockito)
+- Java, Spring Boot, PostgreSQL  
+- Spring Data JPA  
+- Microservices architecture  
+- 100% test coverage (JUnit, Mockito)  
 
 ---
 
 ### 🎭 [Afisha](https://github.com/Timirlon/afisha)
-**Сервис управления событиями**
+**Event management service**
 
-- Java, Spring Boot
-- PostgreSQL, Docker
-- Комментарии, жалобы, модерация
-- Ролевая модель пользователей
+- Java, Spring Boot  
+- PostgreSQL, Docker  
+- Comments, reports, moderation  
+- Role-based access control  
 
 ---
 
 ### 🎓 [University Management System](https://github.com/Timirlon/university-management-system)
-**Система управления университетом**
+**Backend for managing University administrative processes**
 
-- Spring Boot
-- Spring Data JPA
-- Spring Security (JWT)
-- Управление пользователями и ролями
+- Spring Boot  
+- Spring Data JPA  
+- Spring Security (JWT)  
+- User and role management  
